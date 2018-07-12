@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="adress">151 3rd St\nSan-Francisco, CA 94103</string>
+
+    <string name="bottom_1">КАРТА</string>
+    <string name="bottom_2">НОВОСТИ</string>
+    <string name="bottom_3">ИНФО</string>
+    <string name="title_activity_map_page">Map</string>
+</resources>
