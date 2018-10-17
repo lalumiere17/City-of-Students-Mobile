@@ -1,9 +1,8 @@
-package com.example.sveta.firstproject.Models;
+package com.example.susu.models;
 
 import android.Manifest;
 import android.app.Activity;
 import android.content.pm.PackageManager;
-import android.os.Build;
 import android.support.v4.app.ActivityCompat;
 
 public final class Permissions {
