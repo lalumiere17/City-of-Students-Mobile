@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 	<item
-		android:id="@+id/hostesActivity"
+		android:id="@+id/btn_hostels"
 		android:title="@string/hostels"
-		android:icon="@drawable/selector_button_hostels"/>
+		android:icon="@drawable/button_hostels_selector"/>
 
-	<item android:id="mapActivity"
+	<item
+		android:id="@+id/btn_maps"
 		android:title="@string/map"
-		android:icon="@drawable/selector_button_map"/>
+		android:icon="@drawable/button_map_selector"/>
 
-
-	<item android:id="@+id/newsActivity"
-		android:title="@string/hostels"
-		android:icon="@drawable/selector_button_news"/>
-
+	<item
+		android:id="@+id/btn_news"
+		android:title="@string/news"
+		android:icon="@drawable/button_news_selector"/>
 </menu>

@@ -1,8 +1,9 @@
 <resources>
-    <string name="app_name">FirstProject</string>
+	<string name="app_name">Студгородок ЮУрГУ</string>
 
-    <string name="map">Карта</string>
-    <string name="news">Новости</string>
-    <string name="hostels">Общежития</string>
+	<!--Навигационное меню-->
+	<string name="hostels">Общежития</string>
+	<string name="map">Карта</string>
+	<string name="news">Новости</string>
 	<string name="title_activity_maps">Map</string>
 </resources>

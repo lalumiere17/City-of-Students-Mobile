@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.design.internal.BottomNavigationMenuView
-	android:layout_width="match_parent"
+<android.support.design.widget.BottomNavigationView android:layout_width="match_parent"
 	android:layout_height="wrap_content"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-	tools:menu="@menu/bottom_menu"
-    xmlns:tools="http://schemas.android.com/tools"/>
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	app:menu="@menu/bottom_menu"
+	xmlns:android="http://schemas.android.com/apk/res/android"/>
